@@ -1,0 +1,12 @@
+{
+  "label": "PUNTO V_336",
+  "build": 336,
+  "file": "PUNTO.html",
+  "sha256": "",
+  "notes": "Descrizione delle novità di questa versione.",
+  "apk": {
+    "file": "PuntoCassa.apk",
+    "versionCode": 0,
+    "version": ""
+  }
+}
